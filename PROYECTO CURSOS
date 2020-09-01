@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>ESTUDIO DE ARQUITECTURA</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Arquitectura, construcción, diseño interior">
+    <meta name="description" content="PROYECTOS DE ARQUITECTURA">
+</head>
+
+<body>
+    <hgroup>
+        <h1>ESTUDIO DE ARQUITECTURA</h1>
+    </hgroup>
+
+    <section id="servicios">
+        <h2>SERVICIOS</h2>
+        <ul>
+            <li>Proyectos arquitectónicos</li>
+            <li>Diseño de interiores</li>
+            <li>Renders</li>
+            <li>Diseño lumínico</li>
+        </ul>
+
+        <img alt="Render Casa Z" src="imagenes/RENDER - LIVING CASA Z.jpg" width="800px" height="550px"></img>
+        <br>
+        <video src="videos/Proyectos arquitectónicos.mp4" controls="" width="400px" height="600px"></video>
+        <br>
+        <audio src="audios/Audio de prueba.mp3.ogg" controls=""></audio>
+    </section>
+
+<footer>
+    <p>Copyright 2020 - Todos los derechos reservados</p>
+</footer>
+
+</body>
+</html>
